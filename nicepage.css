@@ -1045,7 +1045,7 @@ ol {
   margin: 0;
   -webkit-text-decoration-skip: objects;
   font-style: initial;
-  white-space: nowrap;
+  /* white-space: nowrap; */
   -webkit-user-select: none;
       -ms-user-select: none;
           user-select: none;

@@ -220,9 +220,9 @@
 }
 
 .u-section-2 .u-text-8 {
-  font-size: 2.625rem;
+  font-size: 2rem;
   font-weight: 900;
-  margin: 34px 0 0;
+  margin: 34px 20px;
 }
 
 .u-section-2 .u-custom-html-1 {
@@ -237,7 +237,7 @@
 
 .u-section-2 .u-btn-2 {
   transition-duration: 0.5s;
-  font-size: 1.25rem;
+  font-size: 1.75rem;
   margin: 0 auto;
   padding: 0;
 }
